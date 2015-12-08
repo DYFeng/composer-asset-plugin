@@ -1,5 +1,5 @@
 {
-    "name": "DYFeng/composer-asset-plugin",
+    "name": "dyfeng/composer-asset-plugin",
     "description": "NPM/Bower Dependency Manager for Composer",
     "keywords": ["npm", "bower", "dependency manager", "package", "asset", "composer", "nodejs"],
     "homepage": "https://github.com/DYFeng/composer-asset-plugin",

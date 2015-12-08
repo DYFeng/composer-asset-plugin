@@ -100,7 +100,7 @@ Installation
 All the installation instructions are located in [documentation](Resources/doc/index.md).
 
 
-**The original `fxp/composer-asset-plugin` package will be replaced with `DYFeng/composer-asset-plugin` (version constraint should be set to latest, e.g. `dev-master`). You can still have `fxp/composer-asset-plugin` installed globally, but substitute it with this package in your project.**
+**The original `fxp/composer-asset-plugin` package will be replaced with `dyfeng/composer-asset-plugin` (version constraint should be set to latest, e.g. `dev-master`). You can still have `fxp/composer-asset-plugin` installed globally, but substitute it with this package in your project.**
 
 See the [Release Notes](https://github.com/francoispluchino/composer-asset-plugin/releases)
 to know the Composer version required.
@@ -108,13 +108,13 @@ to know the Composer version required.
 ### Global scope (per user) installation
 
 ```shell
-$ composer global require "DYFeng/composer-asset-plugin:dev-master"
+$ composer global require "dyfeng/composer-asset-plugin:dev-master"
 ```
 
 ### Project scope installation
 
 ```shell
-$ composer require "DYFeng/composer-asset-plugin:dev-master"
+$ composer require "dyfeng/composer-asset-plugin:dev-master"
 ```
 
 Usage
